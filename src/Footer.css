@@ -1,0 +1,16 @@
+/* Footer.css */
+
+.footer-container {
+    text-align: center; /* Align the entire container to the center */
+  }
+  
+  .footer-item {
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    vertical-align: top;
+    text-align: center; /* Center the text within each div */
+    padding: 10px;
+    
+  }
+  

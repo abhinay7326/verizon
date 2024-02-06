@@ -1,0 +1,22 @@
+/* ChatOption.css */
+.chat-option-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000; /* Ensure it appears above other elements on the page */
+  }
+  
+  .chat-option {
+    background-color: #007bff; /* Blue color, you can customize */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    /* Add additional styling as needed */
+  }
+  
+  .chat-option:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }
+  
